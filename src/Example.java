@@ -1,4 +1,6 @@
-//Some comment
+/*
+ * Some comment
+ */
 public class Example {
 
 }
